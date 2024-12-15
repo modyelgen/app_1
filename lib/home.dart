@@ -23,10 +23,7 @@ class MyHomePage extends StatelessWidget {
          
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-             Text(
-              'Welcom to my app',
-            ),
-            SizedBox(height: 20,),
+            
              Text(
               'my name is mahmoud ',
             ),
