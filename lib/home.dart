@@ -26,6 +26,18 @@ class MyHomePage extends StatelessWidget {
              Text(
               'Welcom to my app',
             ),
+            SizedBox(height: 20,),
+             Text(
+              'my name is mahmoud ',
+            ),
+             SizedBox(height: 20,),
+             Text(
+              'i have 23 y.old',
+            ),
+             SizedBox(height: 20,),
+             Text(
+              'i am from ismailia egypt',
+            ),
            
           ],
         ),
